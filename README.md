@@ -1,6 +1,6 @@
 # [University Library of the Technical University of Munich (TUM)](https://ub.tum.de)
 
-TUM University Library supports Open Source and develops the following products:\
+TUM University Library supports Open Source and develops the following products:
 
 <table>
   <tr>
